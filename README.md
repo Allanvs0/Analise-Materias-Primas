@@ -19,7 +19,8 @@ O objetivo foi tratar, explorar e visualizar um conjunto de dados de matérias-p
 analise-materias-primas/
 ├── data/
 │ └── agricultural_raw_material.csv # Base de dados utilizada
-├── analise_materias_primas.ipynb # Notebook principal
+├── analise-materias-primas/
+│ └── analise_materias_primas.ipynb # Notebook principal
 └── README.md # Documentação
 
 
