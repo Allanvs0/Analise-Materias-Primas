@@ -16,11 +16,11 @@ O objetivo foi tratar, explorar e visualizar um conjunto de dados de matérias-p
 ---
 
 ## 📂 Estrutura do projeto
-analise-materias-primas/
-├── data/
-│ └── agricultural_raw_material.csv # Base de dados utilizada
-├── analise-materias-primas/
-│ └── analise_materias_primas.ipynb # Notebook principal
+analise-materias-primas/<br>
+├── data/<br>
+│ └── agricultural_raw_material.csv # Base de dados utilizada<br>
+├── analise-materias-primas/<br>
+│ └── analise_materias_primas.ipynb # Notebook principal<br>
 └── README.md # Documentação
 
 
