@@ -54,21 +54,6 @@ analise-materias-primas/<br>
 
 ---
 
-## 📊 Exemplos de gráficos
-
-### 🔥 Mapa de calor de correlação
-![Heatmap](img/heatmap.png)
-
-### 📈 Evolução do preço de commodities
-![Linha](img/lineplot.png)
-
-### 📦 Faixa de preço das matérias-primas de baixo valor
-![Boxplots](img/boxplots.png)
-
-> ⚠️ Para visualizar os gráficos no README, salve-os no Colab usando `plt.savefig("img/nome.png")` e suba a pasta `img/` junto no repositório.
-
----
-
 ## 🚀 Como executar o projeto
 
 1. Clone este repositório:
