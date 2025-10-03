@@ -81,3 +81,6 @@ A variação percentual mostrou quais matérias-primas sofrem mudanças bruscas 
 O mapa de calor revelou correlações interessantes entre os preços de diferentes commodities.
 
 Este estudo pode ser expandido para previsões de preços e análises comparativas mais profundas.
+
+---
+Para visualizar os gráficos interativos, abra o notebook no Google Colab
