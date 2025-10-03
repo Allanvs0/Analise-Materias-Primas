@@ -3,6 +3,8 @@
 Este projeto foi desenvolvido no **Google Colab** como prática de **Análise Exploratória de Dados (EDA)**.  
 O objetivo foi tratar, explorar e visualizar um conjunto de dados de matérias-primas agrícolas, respondendo perguntas sobre **faixa de preços, variação percentual e correlações** entre commodities.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Allanvs0/Analise-Materias-Primas/blob/main/Analise-Materias-Primas/Materiais_de_agricultura.ipynb)
+
 ---
 
 ## 🛠️ Tecnologias utilizadas
