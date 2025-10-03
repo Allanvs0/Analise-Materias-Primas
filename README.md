@@ -68,8 +68,9 @@ analise-materias-primas/<br>
 
 4. pip install pandas numpy matplotlib seaborn
 
-
 Execute as células em ordem para reproduzir a análise.
+
+---
 
 📌 Conclusões
 
